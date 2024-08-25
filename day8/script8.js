@@ -340,62 +340,62 @@
 
 
 
-// //Topic = Switch Tenary
+//Topic = Switch Tenary
 
-// const day = '7'; 
-//         switch (day) {
-//                 case '1':
-//                         console.log('today is monday, a working day');
-//                         break;
-//                 case '2':
-//                         console.log('today is tuesday, a working day');
-//                         break;
-//                 case '3':
-//                         console.log('today is Wednesday, a working day');
-//                         break;
-//                 case '4':
-//                         console.log('today is thursday, a working day');
-//                         break;
-//                 case '5':
-//                         console.log('today is Friday, a working day');
-//                         break;
-//                 case '6':
-//                         console.log('today is Saturday, enjoy the weekend');
-//                         break;
-//                 case '7':
-//                         console.log('today is Sunday, enjoy the weekend');
-//                         break;
-//                 default:
-//                         console.log('Not a valid day');
-//                         break;
-//         }
-
-
-//         //statement and expression
-
-//         3+4 // -expression 
-//         1947 // -expression 
-//         true && false || !false // -expression 
-
-//         if (24 > 25) {                      // this whole is statement 
-//                 const str = 'statement'
-//         }
-
-//         a = 14 
-//         b= "ram"
-
-//         console.log(`${b} is ${a} years old`);
-//         // it can do for expression not for statement
+const day = '6'; 
+        switch (day) {
+                case '1':
+                        console.log('today is monday, a working day');
+                        break;
+                case '2':
+                        console.log('today is tuesday, a working day');
+                        break;
+                case '3':
+                        console.log('today is Wednesday, a working day');
+                        break;
+                case '4':
+                        console.log('today is thursday, a working day');
+                        break;
+                case '5':
+                        console.log('today is Friday, a working day');
+                        break;
+                case '6':
+                        console.log('today is Saturday, enjoy the weekend');
+                        break;
+                case '7':
+                        console.log('today is Sunday, enjoy the weekend');
+                        break;
+                default:
+                        console.log('Not a valid day');
+                        break;
+        }
 
 
-//         //topic = conditional (ternary) operator = means- to do for statements 
+        //statement and expression
 
-//         const age = 24;
-//         if (age > 25) {
-//                 console.log("this is come from statement 😶‍🌫️😶‍🌫️");
-//         }
+        3+4 // -expression 
+        1947 // -expression 
+        true && false || !false // -expression 
 
-//         a= "ram"
-//         b = 15
+        if (24 > 25) {                      // this whole is statement 
+                const str = 'statement'
+        }
 
-//         console.log(`${a} is ${b} years old. ${b>=18?"Vote":"No Vote"}`);
+        a = 14 
+        b= "ram"
+
+        console.log(`${b} is ${a} years old`);
+        // it can do for expression not for statement
+
+
+        //topic = conditional or ternary operator = means- to do for statements 
+
+        const age = 24;
+        if (age > 25) {
+                console.log("this is come from statement 😶‍🌫️😶‍🌫️");
+        }
+
+        a= "ram"
+        b = 15
+
+        console.log(`${a} is ${b} years old. ${b>=18?"Vote":"No Vote"}`);
