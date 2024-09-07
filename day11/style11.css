@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top left, #2E073F, #D1E9F6);
+}
+h1{
+    padding: 30px;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 48px;
+    line-height: 1.3;
+    width: 100%;
+    color: wheat;
+}
