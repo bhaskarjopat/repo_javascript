@@ -136,6 +136,8 @@
 
 
 
+
+
     // //topic = day12
     // function fruitjuice(apple, banana, orange) {
     //         apple *=4;
@@ -191,4 +193,3 @@ const yearRetirement = function (year, firstName){
 
   console.log(yearRetirement(1998, "ram"));
   console.log(yearRetirement(1901, "ram"));
-  
